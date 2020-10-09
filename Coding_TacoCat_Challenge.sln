@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coding_TacoCat_Challenge", "Coding_TacoCat_Challenge.csproj", "{386F2C24-21D6-4AC1-B4FA-A12C4478F948}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{386F2C24-21D6-4AC1-B4FA-A12C4478F948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{386F2C24-21D6-4AC1-B4FA-A12C4478F948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{386F2C24-21D6-4AC1-B4FA-A12C4478F948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{386F2C24-21D6-4AC1-B4FA-A12C4478F948}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {538508A6-549C-4D2C-9B00-6AC516F17D55}
+	EndGlobalSection
+EndGlobal
